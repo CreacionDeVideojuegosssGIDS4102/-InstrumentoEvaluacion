@@ -35,30 +35,25 @@
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Prototipo 1: [Prototype 1](https://github.com/CreacionDeVideojuegosssGIDS4102/Prototype_1.git)
+  * > Desafío: [Desafío](https://github.com/CreacionDeVideojuegosssGIDS4102/Desafio_1.git)
+  * > PDF: []
 * Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Prototippo 2: [Prototype 2](https://github.com/CreacionDeVideojuegosssGIDS4102/Prototype_2.git)
+  * > Desafío: 
+  * > PDF: []
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Prototipo 3:
+  * > Desafío: 
+  * > PDF: []
 * Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Prototipo 4:
+  * > Desafío: 
+  * > PDF: []
 * Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Prototipo 5:
+  * > Desafío: 
+  * > PDF: []
 * VideoJuego
 
 ## Planificación
