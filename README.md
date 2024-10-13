@@ -40,12 +40,13 @@
   * > PDF del desafio 1: [Desafio1PDF](https://drive.google.com/file/d/1VN4ev4WwhECD3mDEbPdYf_-nQ5CwtE2T/view?usp=drive_link)
 * Lección 2
   * > Prototippo 2: [Prototype 2](https://github.com/CreacionDeVideojuegosssGIDS4102/Prototype_2.git)
-  * > Desafío: 
-  * > PDF del prototipo 2: [PrototypePDF](https://drive.google.com/file/d/1uYa14oheE-G13GayaQj-ISNlIG_8N6Bz/view?usp=drive_link)
+  * > Desafío:  [Desafio_2](https://github.com/CreacionDeVideojuegosssGIDS4102/Desafio_2.git)
+  * > PDF del prototipo 2: [Prototype2PDF](https://drive.google.com/file/d/1uYa14oheE-G13GayaQj-ISNlIG_8N6Bz/view?usp=drive_link)
 * Lección 3
-  * > Prototipo 3:
+  * > Prototipo 3: [Prototype 3](https://github.com/CreacionDeVideojuegosssGIDS4102/Prototype_3.git)
   * > Desafío: 
-  * > PDF: []
+  * > PDF: [Prototype3PDF](https://drive.google.com/file/d/1UsOLLT-U0MQ1fJzgVYCMDNegxwv74lR-/view?usp=drive_link)
+  * > Paquete : [Paquete_Prototipo 3](https://github.com/CreacionDeVideojuegosssGIDS4102/Prototype_3/blob/main/Prototype3.unitypackage)
 * Lección 4
   * > Prototipo 4:
   * > Desafío: 
