@@ -41,6 +41,7 @@
 * Lección 2
   * > Prototippo 2: [Prototype 2](https://github.com/CreacionDeVideojuegosssGIDS4102/Prototype_2.git)
   * > Desafío:  [Desafio_2](https://github.com/CreacionDeVideojuegosssGIDS4102/Desafio_2.git)
+  * > PDF del desafio 2: [Desafio_2](https://drive.google.com/file/d/180cXQ6cDvKMxnDohblQw5_yqZlyvUIPZ/view?usp=drive_link)
   * > PDF del prototipo 2: [Prototype2PDF](https://drive.google.com/file/d/1uYa14oheE-G13GayaQj-ISNlIG_8N6Bz/view?usp=drive_link)
 * Lección 3
   * > Prototipo 3: [Prototype 3](https://github.com/CreacionDeVideojuegosssGIDS4102/Prototype_3.git)
