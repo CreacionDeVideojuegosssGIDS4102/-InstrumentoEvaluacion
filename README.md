@@ -57,6 +57,8 @@
   * > Desafío: 
   * > PDF: []
 * VideoJuego
+[Videojuego en itchio](https://fernandofchr.itch.io/shootlife)
+
 
 ## Planificación
 
