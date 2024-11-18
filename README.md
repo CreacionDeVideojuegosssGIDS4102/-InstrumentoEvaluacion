@@ -49,13 +49,13 @@
   * > PDF: [Prototype3PDF](https://drive.google.com/file/d/1UsOLLT-U0MQ1fJzgVYCMDNegxwv74lR-/view?usp=drive_link)
   * > Paquete : [Paquete_Prototipo 3](https://github.com/CreacionDeVideojuegosssGIDS4102/Prototype_3/blob/main/Prototype3.unitypackage)
 * Lección 4
-  * > Prototipo 4:
+  * > Prototipo 4: [Prototype 4](https://github.com/CreacionDeVideojuegosssGIDS4102/Prototype_4.git)
   * > Desafío: 
-  * > PDF: []
+  * > PDF: [Prototype4PDF](https://drive.google.com/file/d/1WfRBhJ9w8GjSO_6sxRKMzKBs5PmkBSJr/view?usp=drive_link)
 * Lección 5
-  * > Prototipo 5:
+  * > Prototipo 5: [Prototype 5](https://github.com/CreacionDeVideojuegosssGIDS4102/Prototype_5.git)
   * > Desafío: 
-  * > PDF: []
+  * > PDF: [Prototype5PDF](https://drive.google.com/file/d/1SQ3y1hU64vYjaf9lEEg8dDL542NRvQJk/view?usp=drive_link)
 * VideoJuego
 [Videojuego en itchio](https://fernandofchr.itch.io/shootlife)
 
